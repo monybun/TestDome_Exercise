@@ -1,25 +1,21 @@
 # TestDome_Exercise
 TestDome Exercises in Python(CS)
 #### Content
-* Adder
 * Binary Search Tree
 * Book Sale
 * Cargo Ship
 * Category Tree
-* Chain Link
 * Class List
 * Crop Ratio
 * Date Transform
 * Dictionary Owners
 * Document Store
-* Flight Connections
 * Greeter
 * Hobbies
 * IceCcream Machine
 * Internal Nodes
 * Is Alpha
 * Kilometer Converter
-* Language Teacher
 * League Table
 * Log Parser
 * Log Patch
@@ -34,7 +30,6 @@ TestDome Exercises in Python(CS)
 * Paper Strip
 * Paragraph
 * Pipeline
-* Procedure Generator
 * Products
 * Quadratic Equation
 * Read Write Execute
